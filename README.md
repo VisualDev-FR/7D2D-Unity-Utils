@@ -4,4 +4,4 @@
 
 # Other scripts:
 
-* [MultiPlatformExportAssetBundles](https://github.com/7D2D/Templates-and-Utilities/blob/master/MultiPlatformExportAssetBundles.zip): A tool to export your bundles into .unity3d files
+* [MultiPlatformExportAssetBundles](https://github.com/7D2D/Templates-and-Utilities/tree/master): A tool to export your bundles into .unity3d files
